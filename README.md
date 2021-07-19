@@ -15,10 +15,6 @@ Join my community discord server!
 
 [![](https://i.ibb.co/Y3kq58Z/Untitled.png)](https://discord.gg/cHYWdK5GNt)
 
-### ➜ Stats
-
-[![](https://top.gg/api/widget/790892810243932160.svg)](https://top.gg/bot/790892810243932160) 
-
 ### ➜ Supporters
 [![Stargazers repo roster for @AHiddenDonut/VaxinAlerts](https://reporoster.com/stars/dark/AHiddenDonut/VaxinAlerts)](https://github.com/AHiddenDonut/VaxinAlerts/stargazers)
 
