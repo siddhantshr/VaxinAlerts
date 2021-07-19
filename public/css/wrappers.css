@@ -1,0 +1,31 @@
+.container-wrapper {
+    /* width: 45rem; */
+    margin: auto;
+    margin-bottom: 9rem;
+    max-width: 700px;
+    min-width: 340px;
+    /* margin-left: 1rem; */
+    /* margin-right: 1rem; */
+}
+
+.btn-wrapper {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+    margin-top: 2rem;
+    /* padding: 100px;  */
+}
+
+.card-wrapper {
+    /* margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px; */
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+
+.copyright {
+    background-color: rgba(0, 0, 0, 0.2);
+}
